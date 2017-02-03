@@ -33,7 +33,7 @@ fake-useragent==0.1.4
 feedparser==5.2.1
 FeinCMS==1.10.1
 greatape==0.3.2
-httplib2==0.9.1
+#httplib2
 humanize==0.5.1
 iniparse==0.4
 iso8601==0.1.11
@@ -111,7 +111,7 @@ django-scheduler==0.7.2
 django-tastypie==0.12.1
 fixed2csv==0.2.4
 google-api-python-client==1.4.1
-PyDrive==1.0.1
+#PyDrive==1.0.1
 django-noaa==0.2.1
 django-url-tools==0.0.8
 s3cmd==1.6.1
