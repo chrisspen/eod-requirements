@@ -99,7 +99,6 @@ django-pjm==0.2.4
 # django-request version is frozen since they've dropped Django 1.5 support.
 django-request==1.4.0
 django-tables2==0.15.0
-html5lib==0.999
 icalendar==3.11.2
 oauth2client==1.4.7
 paramiko==1.15.2
