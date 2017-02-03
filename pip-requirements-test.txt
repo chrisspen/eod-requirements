@@ -1,0 +1,4 @@
+python-vagrant==0.5.14
+pylint==1.6.4
+# Broken, upgrade once bug fixed.
+#pylint==1.6.5
