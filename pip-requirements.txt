@@ -23,7 +23,8 @@ django-materialized-views==0.3.3
 django-mobile==0.3.0
 django-mptt==0.6.0
 django-python-code-field==0.2.0
-django-reversion==2.0.8
+# Version frozen due to set_ignore_duplicates missing error.
+django-reversion==1.8.0
 django-shareable==0.2.7
 django-storages==1.1.8
 django-suit==0.2.11
@@ -114,7 +115,8 @@ google-api-python-client==1.4.1
 django-noaa==0.2.1
 django-url-tools==0.0.8
 s3cmd==1.6.1
-openpyxl==2.4.2
+# Version frozen due to get_column_letter missing error
+openpyxl==2.2.4
 xlrd==1.0.0
 gspread==0.2.5
 pyOpenSSL==16.2.0
