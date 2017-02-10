@@ -11,7 +11,7 @@ django-ajax-selects==1.3.5
 django-bootstrap-mega==0.1.3
 django-census-places==1.2.6
 django-database-size==0.3.0
-django-excel-response3==1.49
+django-excel-response3==1.51
 django-fixture-magic==0.0.5
 django-input-mask==1.3.7.1
 # Version frozen due to dropped support of Django 1.5.
