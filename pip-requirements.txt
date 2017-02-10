@@ -25,7 +25,7 @@ django-reversion==1.8.0
 django-shareable==0.2.7
 django-storages==1.1.8
 django-suit==0.2.11
-django-tinymce==1.5.2
+django-tinymce==2.6.0
 fake-useragent==0.1.4
 feedparser==5.2.1
 FeinCMS==1.10.1
