@@ -136,4 +136,4 @@ pint==0.7.2
 service-identity==16.0.0
 ruamel.yaml==0.13.13
 # Needed by xhtml2pdf, newer version has bug. ImportError: cannot import name inputstream 
-html5lib==0.999
+html5lib==0.999999999
