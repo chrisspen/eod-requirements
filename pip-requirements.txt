@@ -18,7 +18,7 @@ django-input-mask==1.3.7.1
 django-localflavor==1.0
 django-materialized-views==0.3.3
 django-mobile==0.3.0
-django-mptt==0.6.0
+django-mptt==0.8.7
 django-python-code-field==0.2.0
 # Version frozen due to set_ignore_duplicates missing error.
 django-reversion==1.8.0
