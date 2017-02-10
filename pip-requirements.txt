@@ -116,7 +116,7 @@ s3cmd==1.6.1
 # Version frozen due to get_column_letter missing error
 openpyxl==2.2.4
 xlrd==1.0.0
-gspread==0.2.5
+gspread==0.6.2
 pyOpenSSL==16.2.0
 python-gflags==2.0
 python-Levenshtein==0.12.0
