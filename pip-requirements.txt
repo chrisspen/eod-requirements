@@ -121,7 +121,7 @@ pyOpenSSL==16.2.0
 python-gflags==2.0
 python-Levenshtein==0.12.0
 fuzzywuzzy==0.14.0
-djorm-ext-pgfulltext==0.9.3
+djorm-ext-pgfulltext==0.10
 SQLAlchemy==0.7.10
 django-infinite-pagination==1.0
 django-daterange-filter==1.2.0
