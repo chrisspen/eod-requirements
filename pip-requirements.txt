@@ -80,7 +80,7 @@ xmltodict==0.10.2
 celery==3.1.18
 #pyrabbit==1.1.0
 django-admin-steroids==1.0.7
-django-celery==3.1.1
+django-celery==3.2.1
 django-database-files-3000==0.3.3
 django-datetime-widget==0.9.3
 django-debug-toolbar==1.0.1
