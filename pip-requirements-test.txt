@@ -2,9 +2,6 @@ python-vagrant==0.5.14
 pylint==1.6.4
 # Broken, upgrade once bug fixed.
 #pylint==1.6.5
-# Buildbot versions are frozen due to backwards incompatible changes introduced in 0.9
-buildbot==0.8.12
-buildbot-slave==0.8.12
 jira==1.0.9
 django-webtest==1.8.0
 mocker==1.1.1
@@ -13,3 +10,10 @@ Faker==0.7.7
 #selenium==2.48.0
 #selenium==2.53.6
 selenium==3.0.2
+buildbot==0.9.4
+buildbot-console-view==0.9.4
+buildbot-slave==0.8.12
+buildbot-waterfall-view==0.9.4
+buildbot-worker==0.9.4
+buildbot-www==0.9.4
+pyOpenSSL==16.2.0
