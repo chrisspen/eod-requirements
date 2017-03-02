@@ -71,7 +71,7 @@ six==1.10.0
 slimit==0.8.1
 South==1.0.2
 # Version frozen. Needed by django-debug-toolbar, upgraded version breaks.
-sqlparse==0.1.11
+sqlparse==0.2.3
 suds==0.4
 #supervisor==3.0
 titlecase==0.8.2
