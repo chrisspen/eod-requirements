@@ -57,7 +57,7 @@ pyasn1-modules==0.0.5
 pycrypto==2.6.1
 pygpgme==0.3
 pylibmc==1.5.1
-pyparsing==2.0.2
+pyparsing==2.2.0
 pysqlite==2.8.3
 python-magic==0.4.12
 pytidylib6==0.2.2
