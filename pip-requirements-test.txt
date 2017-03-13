@@ -9,7 +9,7 @@ factory-boy==2.8.1
 Faker==0.7.7
 #selenium==2.48.0
 #selenium==2.53.6
-selenium==3.0.2
+selenium==3.3.0
 buildbot==0.9.4
 buildbot-console-view==0.9.4
 buildbot-slave==0.8.12
