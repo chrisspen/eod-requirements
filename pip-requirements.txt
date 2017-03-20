@@ -48,7 +48,7 @@ MySQL-python==1.2.5
 nameparser==0.5.1
 ordered-set==2.0.1
 ordereddict==1.1
-phonenumbers==8.3.0
+phonenumbers==8.3.2
 Pillow==4.0.0
 ProxyTypes==0.9
 psycopg2==2.5.3
@@ -74,7 +74,7 @@ South==1.0.2
 sqlparse==0.1.11
 suds==0.4
 #supervisor==3.0
-titlecase==0.8.2
+titlecase==0.9.0
 xlwt==1.2.0
 xmltodict==0.10.2
 celery==3.1.18
@@ -98,14 +98,15 @@ django-pjm==0.2.4
 # django-request version is frozen since they've dropped Django 1.5 support.
 django-request==1.4.0
 django-tables2==0.15.0
-icalendar==3.11.2
+icalendar==3.11.3
 oauth2client==1.4.7
 paramiko==1.15.2
 python-dateutil==2.6.0
 python-memcached==1.54
 vobject==0.9.4.1
 django-chroniker==1.0.3
-django-scheduler==0.7.2
+# django-scheduler frozen at 0.7.3 (0.7.4+ requires Django 1.7+)
+django-scheduler==0.7.3
 django-tastypie==0.12.1
 fixed2csv==0.2.4
 google-api-python-client==1.4.1
