@@ -59,7 +59,7 @@ pygpgme==0.3
 pylibmc==1.5.1
 pyparsing==2.0.2
 pysqlite==2.8.3
-python-magic==0.4.12
+python-magic==0.4.13
 pytidylib6==0.2.2
 pytz==2016.10
 PyYAML==3.12
