@@ -61,7 +61,7 @@ pyparsing==2.0.2
 pysqlite==2.8.3
 python-magic==0.4.12
 pytidylib6==0.2.2
-pytz==2016.10
+pytz==2017.2
 PyYAML==3.12
 rarfile==3.0
 requests==2.13.0
