@@ -24,7 +24,7 @@ django-python-code-field==1.0.0
 django-reversion==1.8.0
 django-shareable==0.2.7
 django-storages==1.1.8
-django-suit==0.2.24
+django-suit==0.2.25
 django-tinymce==1.5.2
 fake-useragent==0.1.4
 feedparser==5.2.1
