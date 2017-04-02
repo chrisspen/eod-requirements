@@ -26,7 +26,7 @@ django-shareable==0.2.7
 django-storages==1.1.8
 django-suit==0.2.24
 django-tinymce==1.5.2
-fake-useragent==0.1.4
+fake-useragent==0.1.7
 feedparser==5.2.1
 FeinCMS==1.10.1
 greatape==0.3.2
