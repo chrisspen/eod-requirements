@@ -47,7 +47,7 @@ mechanize==0.2.5
 MonthDelta==1.0b
 MySQL-python==1.2.5
 nameparser==0.5.1
-ordered-set==2.0.1
+ordered-set==2.0.2
 ordereddict==1.1
 phonenumbers==8.3.2
 Pillow==4.0.0
