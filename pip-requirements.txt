@@ -34,7 +34,7 @@ greatape==0.3.2
 #httplib2
 humanize==0.5.1
 iniparse==0.4
-jsmin==2.2.1
+jsmin==2.2.2
 # Version of Ubuntu 14.
 #kombu==3.0.26
 #TODO:necessary for Ubuntu 16.04, but also forces Django upgrade
