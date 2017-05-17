@@ -11,7 +11,7 @@ django-ajax-forms-mega==0.2.4
 django-ajax-selects==1.3.6
 django-bootstrap-mega==0.1.3
 django-census-places==1.2.6
-django-database-size==0.3.0
+django-database-size==1.0.1
 django-excel-response3==1.49
 django-fixture-magic==0.1.3
 django-input-mask==1.3.7.1
