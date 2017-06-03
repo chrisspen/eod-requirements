@@ -41,7 +41,7 @@ jsmin==2.2.1
 kombu==3.0.30
 #kombu==3.0.35
 lockfile==0.12.2
-lxml==3.7.3
+lxml==3.8.0
 Markdown==2.6.8
 mechanize==0.2.5
 MonthDelta==1.0b
