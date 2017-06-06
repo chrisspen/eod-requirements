@@ -133,7 +133,7 @@ future==0.16.0
 python-highcharts==0.3.1
 django-multiselectfield==0.1.5
 dateparser==0.6.0
-pint==0.7.2
+pint==0.8.1
 service-identity==16.0.0
 ruamel.yaml==0.13.14
 # Needed by xhtml2pdf, newer version has bug. ImportError: cannot import name inputstream 
