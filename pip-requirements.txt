@@ -100,7 +100,7 @@ django-request==1.4.0
 django-tables2==0.15.0
 icalendar==3.11.3
 oauth2client==1.4.7
-paramiko==1.15.2
+paramiko==2.2.1
 python-dateutil==2.6.0
 python-memcached==1.58
 vobject==0.9.4.1
