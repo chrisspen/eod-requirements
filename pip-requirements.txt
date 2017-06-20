@@ -104,7 +104,7 @@ paramiko==1.15.2
 python-dateutil==2.6.0
 python-memcached==1.58
 vobject==0.9.4.1
-django-chroniker==1.0.3
+django-chroniker==1.0.8
 # django-scheduler frozen at 0.7.3 (0.7.4+ requires Django 1.7+)
 django-scheduler==0.7.3
 django-tastypie==0.12.2
