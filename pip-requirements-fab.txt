@@ -4,4 +4,4 @@ Fabric==1.13.1
 #burlap
 -e git://github.com/chrisspen/burlap.git#egg=burlap
 blockstack-zones==0.14.1
-GoDaddyPy==2.1.2
+GoDaddyPy==2.2.5
