@@ -1,5 +1,5 @@
 python-vagrant==0.5.14
-pylint==1.6.4
+pylint==1.7.2
 # Broken, upgrade once bug fixed.
 #pylint==1.6.5
 jira==1.0.9
