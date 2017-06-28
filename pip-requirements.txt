@@ -46,7 +46,7 @@ Markdown==2.6.8
 mechanize==0.2.5
 MonthDelta==1.0b
 MySQL-python==1.2.5
-nameparser==0.5.1
+nameparser==0.5.3
 ordered-set==2.0.1
 ordereddict==1.1
 phonenumbers==8.3.2
