@@ -16,7 +16,7 @@ django-excel-response3==1.49
 django-fixture-magic==0.1.3
 django-input-mask==1.3.7.1
 # Version frozen due to dropped support of Django 1.5.
-django-localflavor==1.0
+django-localflavor==1.5.2
 django-materialized-views==0.3.3
 #django-mobile==0.3.0
 django-mptt==0.6.0
