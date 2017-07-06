@@ -50,7 +50,7 @@ nameparser==0.5.1
 ordered-set==2.0.1
 ordereddict==1.1
 phonenumbers==8.3.2
-Pillow==4.0.0
+Pillow==4.2.1
 ProxyTypes==0.9
 psycopg2==2.5.3
 pyasn1==0.1.7
