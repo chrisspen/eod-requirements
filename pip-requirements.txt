@@ -29,7 +29,7 @@ django-suit==0.2.24
 django-tinymce==1.5.2
 fake-useragent==0.1.5
 feedparser==5.2.1
-FeinCMS==1.10.1
+FeinCMS==1.13.4
 greatape==0.3.2
 #httplib2
 humanize==0.5.1
