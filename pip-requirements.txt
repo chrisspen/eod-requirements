@@ -121,7 +121,7 @@ xlrd==1.0.0
 pyOpenSSL==16.2.0
 python-gflags==2.0
 python-Levenshtein==0.12.0
-fuzzywuzzy==0.15.0
+fuzzywuzzy==0.15.1
 djorm-ext-pgfulltext==0.9.3
 SQLAlchemy==0.7.10
 django-infinite-pagination==1.0
