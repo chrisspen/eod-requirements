@@ -38,7 +38,7 @@ jsmin==2.2.1
 # Version of Ubuntu 14.
 #kombu==3.0.26
 #TODO:necessary for Ubuntu 16.04, but also forces Django upgrade
-kombu==3.0.30
+kombu==4.1.0
 #kombu==3.0.35
 lockfile==0.12.2
 lxml==3.7.3
