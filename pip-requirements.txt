@@ -76,7 +76,7 @@ suds==0.4
 titlecase==0.9.0
 xlwt==1.2.0
 xmltodict==0.10.2
-celery==3.1.18
+celery==4.1.0
 #pyrabbit==1.1.0
 django-admin-steroids==1.0.9
 django-celery==3.1.1
