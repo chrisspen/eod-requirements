@@ -24,7 +24,7 @@ django-python-code-field==1.0.0
 # Version frozen due to set_ignore_duplicates missing error.
 django-reversion==1.8.0
 django-shareable==0.2.7
-django-storages==1.1.8
+django-storages==1.6.5
 django-suit==0.2.24
 django-tinymce==1.5.2
 fake-useragent==0.1.5
