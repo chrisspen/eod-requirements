@@ -11,7 +11,7 @@ Faker==0.7.10
 #selenium==2.53.6
 #selenium==3.3.1
 selenium==3.3.3
-buildbot==0.9.5
+buildbot==0.9.10
 buildbot-console-view==0.9.5
 buildbot-waterfall-view==0.9.5
 buildbot-worker==0.9.5
