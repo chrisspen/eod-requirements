@@ -3,5 +3,5 @@ Fabric==1.13.1
 #TODO:remove once burlap version stable
 #burlap
 -e git://github.com/chrisspen/burlap.git#egg=burlap
-blockstack-zones==0.14.1
+blockstack-zones==0.14.3
 GoDaddyPy==2.1.2
