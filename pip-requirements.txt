@@ -42,7 +42,7 @@ kombu==3.0.30
 #kombu==3.0.35
 lockfile==0.12.2
 lxml==3.7.3
-Markdown==2.6.8
+Markdown==2.6.9
 mechanize==0.2.5
 MonthDelta==1.0b
 MySQL-python==1.2.5
