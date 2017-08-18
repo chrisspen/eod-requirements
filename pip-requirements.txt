@@ -22,7 +22,7 @@ django-materialized-views==0.3.3
 django-mptt==0.6.0
 django-python-code-field==1.0.0
 # Version frozen due to set_ignore_duplicates missing error.
-django-reversion==1.8.0
+django-reversion==2.0.10
 django-shareable==0.2.7
 django-storages==1.1.8
 django-suit==0.2.24
