@@ -135,6 +135,6 @@ django-multiselectfield==0.1.5
 dateparser==0.6.0
 pint==0.7.2
 service-identity==16.0.0
-ruamel.yaml==0.13.14
+ruamel.yaml==0.15.32
 # Needed by xhtml2pdf, newer version has bug. ImportError: cannot import name inputstream 
 html5lib==0.999
