@@ -1,5 +1,5 @@
 # Any dependencies needed by Fabric or the sysadmin tool.
-Fabric==1.13.1
+Fabric==1.14.0
 #TODO:remove once burlap version stable
 #burlap
 -e git://github.com/chrisspen/burlap.git#egg=burlap
