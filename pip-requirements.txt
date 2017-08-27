@@ -53,7 +53,7 @@ phonenumbers==8.3.2
 Pillow==4.0.0
 ProxyTypes==0.9
 psycopg2==2.5.3
-pyasn1==0.1.7
+pyasn1==0.3.3
 pyasn1-modules==0.0.5
 pycrypto==2.6.1
 pygpgme==0.3
