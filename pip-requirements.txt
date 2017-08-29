@@ -109,7 +109,7 @@ django-chroniker==1.0.3
 django-scheduler==0.7.3
 django-tastypie==0.12.2
 fixed2csv==0.2.4
-google-api-python-client==1.4.1
+google-api-python-client==1.6.3
 #PyDrive==1.0.1
 django-noaa==0.2.1
 django-url-tools==0.0.8
