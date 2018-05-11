@@ -130,7 +130,7 @@ django-xhtml2pdf==0.0.3
 xhtml2pdf==0.2b1
 django-ft-cache==1.0.0
 future==0.16.0
-python-highcharts==0.3.1
+python-highcharts==0.4.1
 django-multiselectfield==0.1.8
 dateparser==0.6.0
 pint==0.7.2
