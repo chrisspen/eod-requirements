@@ -89,7 +89,7 @@ django-helpdesk3000==0.3.4
 #-e git://github.com/chrisspen/django-helpdesk3000.git#egg=django-helpdesk3000
 django-knowledge-mega==0.3.1
 #-e git://github.com/chrisspen/django-knowledge.git#egg=django-knowledge
-django-model-utils==3.0.0
+django-model-utils==3.1.2
 django-notifications-hq==1.3
 django-picklefield==1.0.0
 django-pipeline==1.6.13
