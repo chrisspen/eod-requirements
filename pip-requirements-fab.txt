@@ -7,7 +7,7 @@ burlap==0.9.36
 #-e git://github.com/chrisspen/burlap.git#egg=burlap
 
 # Needed by DNS satchel.
-blockstack-zones==0.14.1
+blockstack-zones==0.19.0.0
 GoDaddyPy==2.2.5
 
 # Needed by Edge satchel.
