@@ -126,7 +126,7 @@ djorm-ext-pgfulltext==0.10
 django-infinite-pagination-mega==1.1
 #-e git://github.com/chrisspen/django-infinite-pagination.git#egg=django-infinite-pagination
 django-daterange-filter==1.3.0
-django-xhtml2pdf==0.0.3
+django-xhtml2pdf==0.0.4
 xhtml2pdf==0.2b1
 django-ft-cache==1.0.0
 future==0.16.0
