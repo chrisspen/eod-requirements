@@ -58,7 +58,7 @@ Pillow==4.3.0
 ProxyTypes==0.9
 psycopg2==2.7.3.2
 pyasn1==0.4.2
-pyasn1-modules==0.2.1
+pyasn1-modules==0.2.2
 pycrypto==2.6.1
 pygpgme==0.3
 pylibmc==1.5.2
