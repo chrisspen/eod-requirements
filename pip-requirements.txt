@@ -55,7 +55,7 @@ ordereddict==1.1
 phonenumbers==8.8.3
 Pillow==4.3.0
 # Provides peak.utils.
-ProxyTypes==0.9
+ProxyTypes==0.10.0
 psycopg2==2.7.3.2
 pyasn1==0.4.2
 pyasn1-modules==0.2.1
