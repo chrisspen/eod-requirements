@@ -5,7 +5,7 @@ anyjson==0.3.3
 #argparse==1.2.1
 # billiard -- Only used by Buildbot; remove requirement?
 #billiard==3.3.0.13
-boto==2.48.0
+boto==2.49.0
 carrot==0.10.7
 cssmin==0.2.0
 Django==1.11.13
