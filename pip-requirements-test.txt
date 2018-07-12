@@ -2,7 +2,7 @@
 # AFTER MODIFYING THIS FILE, RUN: fab edge.update_requirements; ./init_virtualenv.sh
 python-vagrant==0.5.15
 pylint==1.8.4
-jira==1.0.10
+jira==2.0.0
 django-webtest==1.9.2
 mock==2.0.0
 mocker==1.1.1
