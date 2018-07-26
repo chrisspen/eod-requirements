@@ -57,7 +57,7 @@ Pillow==4.3.0
 # Provides peak.utils.
 ProxyTypes==0.9
 psycopg2==2.7.3.2
-pyasn1==0.4.2
+pyasn1==0.4.4
 pyasn1-modules==0.2.1
 pycrypto==2.6.1
 pygpgme==0.3
