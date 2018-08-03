@@ -44,7 +44,7 @@ jsmin==2.2.2
 #TODO:necessary for Ubuntu 16.04, but also forces Django upgrade
 #kombu==3.0.37
 lockfile==0.12.2
-lxml==4.1.0
+lxml==4.2.4
 Markdown==2.6.9
 mechanize==0.3.6
 MonthDelta==1.0b
