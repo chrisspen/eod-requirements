@@ -46,7 +46,7 @@ jsmin==2.2.2
 lockfile==0.12.2
 lxml==4.1.0
 Markdown==2.6.9
-mechanize==0.3.6
+mechanize==0.3.7
 MonthDelta==1.0b
 MySQL-python==1.2.5
 nameparser==0.5.3
