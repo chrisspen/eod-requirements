@@ -3,7 +3,7 @@
 
 # Any dependencies needed by Fabric or the sysadmin tool.
 Fabric==1.14.0
-burlap==0.9.36
+burlap==0.9.39
 #-e git://github.com/chrisspen/burlap.git#egg=burlap
 
 # Needed by DNS satchel.
@@ -12,6 +12,13 @@ GoDaddyPy==2.2.5
 
 # Needed by Edge satchel.
 httplib2==0.10.3
+s3cmd==2.0.1
 
 # Needed by edge satchel devops.
 gspread==0.2.5
+
+# Needed by oauth2client.
+pyOpenSSL==18.0.0
+
+# Fix security hole in cryptography < 2.3 (required by pyOpenSSL >= 18.1.0; remove this line when 18.1.0 released)
+cryptography==2.3.1
