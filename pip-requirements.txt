@@ -17,7 +17,7 @@ django-storages==1.6.5
 django-suit==0.2.25
 django-tinymce==2.6.0
 django-markdown-deux==1.0.5
-fake-useragent==0.1.7
+fake-useragent==0.1.11
 feedparser==5.2.1
 FeinCMS==1.13.4
 humanize==0.5.1
