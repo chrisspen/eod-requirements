@@ -3,11 +3,11 @@
 
 # Any dependencies needed by Fabric or the sysadmin tool.
 Fabric==1.14.0
-burlap==0.9.39
+burlap==0.9.41
 #-e git://github.com/chrisspen/burlap.git#egg=burlap
 
 # Needed by DNS satchel.
-blockstack-zones==0.14.1
+-e git://github.com/Edge-On-Demand/zone-file-py.git@716a7f189dc8e1611afdb93c6b21588d2aab579a#egg=zone-file-py
 GoDaddyPy==2.2.5
 
 # Needed by Edge satchel.
