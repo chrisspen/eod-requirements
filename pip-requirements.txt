@@ -25,7 +25,7 @@ MechanicalSoup==0.10.0
 MonthDelta==1.0b
 nameparser==0.5.3
 ordered-set==2.0.2
-phonenumbers==8.8.3
+phonenumbers==8.10.15
 Pillow==4.3.0
 # Provides peak.utils.
 proxytypes3==1.0.1
