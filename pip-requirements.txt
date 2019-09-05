@@ -46,7 +46,7 @@ xmltodict==0.11.0
 celery==4.1.1
 #pyrabbit==1.1.0
 django-admin-steroids==1.0.24
-django-database-files-3000==1.0.3
+django-database-files-3000==1.0.5
 django-datetime-widget==0.9.3
 django-debug-toolbar==1.9.1
 Pympler==0.6
