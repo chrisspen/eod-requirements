@@ -89,7 +89,7 @@ numpy==1.14.5
 pandas==0.20.3
 XlsxWriter==1.0.2
 django-money==0.11.4
-html2text==2017.10.4
+html2text==2020.1.16
 # Required by Celery 4.*, but due to a bug, not installed by default.
 # https://github.com/celery/celery/issues/3547
 vine==1.1.4
