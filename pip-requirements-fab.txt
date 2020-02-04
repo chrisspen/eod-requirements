@@ -8,7 +8,7 @@ burlap==0.9.41
 
 # Needed by DNS satchel.
 -e git://github.com/Edge-On-Demand/zone-file-py.git@716a7f189dc8e1611afdb93c6b21588d2aab579a#egg=zone-file-py
-GoDaddyPy==2.2.5
+GoDaddyPy==2.3.3
 
 # Needed by Edge satchel.
 httplib2==0.10.3
