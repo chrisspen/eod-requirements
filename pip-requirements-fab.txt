@@ -12,7 +12,7 @@ GoDaddyPy==2.2.5
 
 # Needed by Edge satchel.
 httplib2==0.10.3
-s3cmd==2.0.1
+s3cmd==2.1.0
 
 # Needed by edge satchel devops.
 gspread==0.2.5
