@@ -7,7 +7,7 @@ Django==1.11.17
 django-ajax-selects==1.6.1
 -e git://github.com/Edge-On-Demand/django-bootstrap.git@da6d4c69af6a47ab2fd2f95b5de9fc05079c22f0#egg=django-bootstrap
 django-database-size==1.0.1
-django-excel-response==2.0.3
+django-excel-response==2.0.5
 django-localflavor==1.6.1
 django-mptt==0.8.7
 -e git://github.com/Edge-On-Demand/django-python-code-field.git@5a8716cfe8437978841986858ba5f010428601cf#egg=django-python-code-field
