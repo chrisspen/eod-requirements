@@ -24,7 +24,7 @@ Markdown==2.6.9
 MechanicalSoup==0.10.0
 MonthDelta==1.0b
 nameparser==0.5.3
-ordered-set==2.0.2
+ordered-set==4.0.2
 phonenumbers==8.8.3
 Pillow==4.3.0
 # Provides peak.utils.
