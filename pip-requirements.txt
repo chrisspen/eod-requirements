@@ -34,7 +34,7 @@ python-magic==0.4.13
 -e git://github.com/Edge-On-Demand/pytidylib6.git@800f54f455974b077ee245a9f20ddfd72bbe70aa#egg=pytidylib6
 pytz==2016.10
 PyYAML==3.12
-rarfile==3.0
+rarfile==4.0
 requests==2.18.4
 slimit==0.8.1
 # Version frozen. Needed by django-debug-toolbar; 0.2.0 breaks for django-debug-toolbar < 1.5
