@@ -62,7 +62,7 @@ django-tables2==1.12.0
 icalendar==3.11.7
 # CS 2018-4-2 Frozen until fab edge.set_admin_passwords is fixed https://stackoverflow.com/a/35447759/247542
 oauth2client==1.5.2
-paramiko==2.0.0
+paramiko==2.7.2
 python-dateutil==2.6.1
 python-memcached==1.58
 vobject==0.9.5
