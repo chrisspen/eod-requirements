@@ -59,7 +59,7 @@ django-pipeline==1.6.13
 #django-pipeline-forgiving==1.0.0
 django-request==1.5.4
 django-tables2==1.12.0
-icalendar==3.11.7
+icalendar==4.0.7
 # CS 2018-4-2 Frozen until fab edge.set_admin_passwords is fixed https://stackoverflow.com/a/35447759/247542
 oauth2client==1.5.2
 paramiko==2.0.0
