@@ -76,7 +76,7 @@ xlrd==1.1.0
 fuzzywuzzy==0.15.1
 djorm-ext-pgfulltext==0.10
 django-infinite-pagination-mega==1.1
-xhtml2pdf==0.2.2
+xhtml2pdf==0.2.5
 django-ft-cache==1.0.0
 future==0.16.0
 django-multiselectfield==0.1.8
