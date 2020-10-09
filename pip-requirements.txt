@@ -66,7 +66,7 @@ paramiko==2.0.0
 python-dateutil==2.6.1
 python-memcached==1.58
 vobject==0.9.5
-django-chroniker==1.0.10
+django-chroniker==1.0.22
 django-scheduler==0.8.6.1
 django-tastypie==0.14.1
 google-api-python-client==1.6.4
