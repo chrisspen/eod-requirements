@@ -87,7 +87,7 @@ ruamel.yaml==0.15.34
 # NumPy v1.15.0 raises RuntimeWarnings for pandas v0.20.3
 numpy==1.14.5
 pandas==0.20.3
-XlsxWriter==1.0.2
+XlsxWriter==1.3.7
 django-money==0.11.4
 html2text==2017.10.4
 # Required by Celery 4.*, but due to a bug, not installed by default.
