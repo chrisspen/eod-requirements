@@ -49,7 +49,7 @@ django-admin-steroids==1.0.24
 django-database-files-3000==1.0.3
 django-datetime-widget==0.9.3
 django-debug-toolbar==1.9.1
-Pympler==0.6
+Pympler==0.9
 django-elasticache==1.0.3
 django-extensions==1.9.6
 -e git://github.com/Edge-On-Demand/django-helpdesk3000.git@0bec7c19768edf0ee0ca6f755f64a9dbbe91b948#egg=django-helpdesk3000
