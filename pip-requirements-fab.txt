@@ -3,7 +3,7 @@
 
 # Any dependencies needed by Fabric or the sysadmin tool.
 Fabric==1.14.0
-burlap==0.9.41
+burlap==0.9.84
 #-e git://github.com/chrisspen/burlap.git#egg=burlap
 
 # Needed by DNS satchel.
