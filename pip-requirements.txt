@@ -48,7 +48,7 @@ celery==4.1.1
 django-admin-steroids==1.0.24
 django-database-files-3000==1.0.3
 django-datetime-widget==0.9.3
-django-debug-toolbar==1.9.1
+django-debug-toolbar==3.2
 Pympler==0.6
 django-elasticache==1.0.3
 django-extensions==1.9.6
