@@ -19,7 +19,7 @@ django-tinymce==2.6.0
 fake-useragent==0.1.7
 feedparser==5.2.1
 FeinCMS==1.13.4
-humanize==0.5.1
+humanize==3.2.0
 Markdown==2.6.9
 MechanicalSoup==0.10.0
 MonthDelta==1.0b
