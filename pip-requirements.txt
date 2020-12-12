@@ -4,7 +4,7 @@
 boto==2.48.0
 Django==1.11.17
 -e git://github.com/Edge-On-Demand/django-ajax-forms.git@30ab5f34a30760efae572ebe60df55c5a47130af#egg=django-ajax-forms
-django-ajax-selects==1.6.1
+django-ajax-selects==2.1.0
 -e git://github.com/Edge-On-Demand/django-bootstrap.git@da6d4c69af6a47ab2fd2f95b5de9fc05079c22f0#egg=django-bootstrap
 django-database-size==1.0.1
 django-excel-response==2.0.3
