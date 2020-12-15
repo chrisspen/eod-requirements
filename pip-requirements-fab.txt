@@ -18,7 +18,7 @@ s3cmd==2.0.1
 gspread==0.2.5
 
 # Needed by oauth2client.
-pyOpenSSL==18.0.0
+pyOpenSSL==20.0.1
 
 # Fix security hole in cryptography < 2.3 (required by pyOpenSSL >= 18.1.0; remove this line when 18.1.0 released)
 cryptography==2.3.1
