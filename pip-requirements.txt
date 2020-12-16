@@ -35,7 +35,7 @@ python-magic==0.4.13
 pytz==2016.10
 PyYAML==3.12
 rarfile==3.0
-requests==2.18.4
+requests==2.25.1
 slimit==0.8.1
 # Version frozen. Needed by django-debug-toolbar; 0.2.0 breaks for django-debug-toolbar < 1.5
 sqlparse==0.2.4
