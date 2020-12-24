@@ -12,7 +12,7 @@ django-localflavor==1.6.1
 django-mptt==0.8.7
 -e git://github.com/Edge-On-Demand/django-python-code-field.git@5a8716cfe8437978841986858ba5f010428601cf#egg=django-python-code-field
 -e git://github.com/Edge-On-Demand/django-shareable.git@926e78e4d8d35a55d1431c0c77639928a7ddaa0b#egg=django-shareable
-django-storages==1.6.5
+django-storages==1.11.1
 django-suit==0.2.25
 django-tinymce==2.6.0
 -e git://github.com/Edge-On-Demand/django-markdown-deux.git@ef6af614c95d76f151d5c5816e16539fa745e301#egg=django-markdown-deux
