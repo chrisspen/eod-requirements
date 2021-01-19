@@ -2,7 +2,7 @@
 # AFTER MODIFYING THIS FILE, RUN: fab edge.update_requirements; ./init_virtualenv.sh
 
 # Any dependencies needed by Fabric or the sysadmin tool.
-Fabric==1.14.0
+Fabric==2.6.0
 burlap==0.9.41
 #-e git://github.com/chrisspen/burlap.git#egg=burlap
 
