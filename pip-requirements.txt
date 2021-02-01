@@ -32,7 +32,7 @@ proxytypes3==1.0.1
 psycopg2==2.7.5
 python-magic==0.4.13
 -e git://github.com/Edge-On-Demand/pytidylib6.git@800f54f455974b077ee245a9f20ddfd72bbe70aa#egg=pytidylib6
-pytz==2016.10
+pytz==2021.1
 PyYAML==3.12
 rarfile==3.0
 requests==2.18.4
