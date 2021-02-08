@@ -51,7 +51,7 @@ django-datetime-widget==0.9.3
 django-debug-toolbar==1.9.1
 Pympler==0.6
 django-elasticache==1.0.3
-django-extensions==1.9.6
+django-extensions==3.1.1
 -e git://github.com/Edge-On-Demand/django-helpdesk3000.git@0bec7c19768edf0ee0ca6f755f64a9dbbe91b948#egg=django-helpdesk3000
 -e git://github.com/Edge-On-Demand/django-knowledge.git@b76e8461108ad47250e69593b440eb35a9982798#egg=django-knowledge
 django-notifications-hq==1.3
