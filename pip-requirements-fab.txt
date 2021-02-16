@@ -21,4 +21,4 @@ gspread==0.2.5
 pyOpenSSL==18.0.0
 
 # Fix security hole in cryptography < 2.3 (required by pyOpenSSL >= 18.1.0; remove this line when 18.1.0 released)
-cryptography==2.3.1
+cryptography==3.4.6
