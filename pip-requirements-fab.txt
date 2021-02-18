@@ -15,7 +15,7 @@ httplib2==0.10.3
 s3cmd==2.0.1
 
 # Needed by edge satchel devops.
-gspread==0.2.5
+gspread==3.7.0
 
 # Needed by oauth2client.
 pyOpenSSL==18.0.0
