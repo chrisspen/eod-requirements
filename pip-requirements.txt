@@ -20,7 +20,7 @@ fake-useragent==0.1.7
 feedparser==5.2.1
 FeinCMS==1.13.4
 humanize==0.5.1
-Markdown==2.6.9
+Markdown==3.3.4
 MechanicalSoup==0.10.0
 MonthDelta==1.0b
 nameparser==0.5.3
