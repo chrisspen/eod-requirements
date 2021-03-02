@@ -86,7 +86,7 @@ ruamel.yaml==0.15.34
 -e git://github.com/Edge-On-Demand/usaddress.git@4f6ee213027629aade72d1fb433eceee9bcd5abc#egg=usaddress
 # NumPy v1.15.0 raises RuntimeWarnings for pandas v0.20.3
 numpy==1.14.5
-pandas==0.20.3
+pandas==1.2.3
 XlsxWriter==1.0.2
 django-money==0.11.4
 html2text==2017.10.4
