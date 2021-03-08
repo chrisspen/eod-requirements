@@ -8,7 +8,7 @@ mock==2.0.0
 factory-boy==2.11.1
 Faker==0.8.5
 buildbot==1.4.0
-buildbot-console-view==1.4.0
+buildbot-console-view==3.0.0
 buildbot-waterfall-view==1.4.0
 buildbot-worker==1.4.0
 buildbot-www==1.4.0
