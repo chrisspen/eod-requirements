@@ -71,7 +71,7 @@ django-scheduler==0.8.6.1
 django-tastypie==0.14.1
 google-api-python-client==1.6.4
 -e git://github.com/Edge-On-Demand/django-url-tools-py3.git@5d853b4d0ffcbac68ccc79cd50c19df44fa96f99#egg=django-url-tools
-openpyxl==2.4.8
+openpyxl==3.0.7
 xlrd==1.1.0
 fuzzywuzzy==0.15.1
 djorm-ext-pgfulltext==0.10
